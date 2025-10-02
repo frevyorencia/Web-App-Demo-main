@@ -13,7 +13,7 @@ from PIL import Image, ImageDraw, ImageFont
 import streamlit as st
 
 # --- Streamlit Page Setup --------------------------------------------------
-st.set_page_config(page_title="Andy's Detector", page_icon="🔍", layout="centered")
+st.set_page_config(page_title="Andya's Detector", page_icon="🔍", layout="centered")
 st.title("Andy's Detector")
 
 # Simple inputs so learners can follow along
